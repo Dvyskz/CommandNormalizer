@@ -34,3 +34,7 @@ public function onCommand(CommandEvent $event): void
 
 - PocketMine-MP API 5.0.0+
 - Works with all plugins and custom forks — no configuration needed
+
+## Credits
+* **Developer:** [Dvyskz](https://github.com/dvyskz)
+* **Apoyo Emocional:** [sxvape](https://github.com/vapebw)
