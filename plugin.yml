@@ -1,0 +1,6 @@
+name: CaseInsensitiveCommands
+version: 1.0.0
+main: CaseInsensitiveCommands\Main
+api: 5.0.0
+author: Dvyskz (@Dvyskz)
+description: Makes all commands case-insensitive.
